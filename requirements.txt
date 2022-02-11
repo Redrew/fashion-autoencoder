@@ -37,7 +37,7 @@ Pillow==7.2.0
 proglog==0.1.9
 progress==1.5
 prompt-toolkit==3.0.5
-protobuf==3.12.4
+protobuf==3.15.0
 ptyprocess==0.6.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
